@@ -1,6 +1,6 @@
 # Todo Application
 
-A full-stack todo application built using FastAPI for the backend and React for the frontend. This project demonstrates basic CRUD operations, state management, and API integration.
+A full-stack todo application built using FastAPI for the backend and React for the frontend. This project demonstrates basic CRUD operations, state management, and API integration. 
 
 ## Technologies Used
 - Backend: FastAPI, SQLAlchemy
