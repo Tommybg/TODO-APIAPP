@@ -1,0 +1,16 @@
+# Core FastAPI packages
+fastapi==0.104.1           # The main FastAPI framework
+uvicorn==0.24.0           # ASGI server for running FastAPI applications
+
+# Database packages
+sqlalchemy==2.0.23        # SQL toolkit and ORM for database operations
+alembic==1.12.1          # Database migration tool for SQLAlchemy
+
+# Data validation and typing
+pydantic==2.4.2          # Data validation using Python type annotations
+python-dateutil==2.8.2   # Extensions for datetime module
+typing-extensions==4.8.0  # Backported typing hints
+
+# Middleware and CORS
+starlette==0.27.0        # Web framework that FastAPI is built on, needed for CORS
+python-multipart==0.0.6  # Support for form data and file uploads
